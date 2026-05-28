@@ -30,4 +30,4 @@ Utilizamos o **1985 Auto Imports Dataset**, disponível no UCI Machine Learning 
 5. Acesse a pasta `notebooks/`, abra o arquivo `trabalho2_analise_e_modelagem.ipynb` e execute as células sequencialmente para replicar os modelos.
 
 ## Conclusões
-O uso de Pipelines e tratamento de Outliers garantiu uma modelagem robusta, com o algoritmo Random Forest apresentando ótimo desempenho. Mais detalhes no `relatorio_tecnico.md`.
+O uso de Pipelines e tratamento de Outliers garantiu uma modelagem robusta, com o algoritmo Random Forest apresentando ótimo desempenho. Mais detalhes no `relatorio_tecnico`.
